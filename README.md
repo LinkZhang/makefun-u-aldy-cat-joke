@@ -4,7 +4,7 @@
 [![rank](https://make.fun/badge/u-aldy998-the-one-line-cat-joke-that-lands-a7b18262/LinkZhang/makefun-u-aldy-cat-joke/rank.svg)](https://make.fun/bounty/u-aldy998-the-one-line-cat-joke-that-lands-a7b18262/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-aldy998-the-one-line-cat-joke-that-lands-a7b18262)
 [![reward](https://make.fun/badge/u-aldy998-the-one-line-cat-joke-that-lands-a7b18262/LinkZhang/makefun-u-aldy-cat-joke/reward.svg)](https://make.fun/bounty/u-aldy998-the-one-line-cat-joke-that-lands-a7b18262?utm_source=github&utm_medium=readme&utm_campaign=u-aldy998-the-one-line-cat-joke-that-lands-a7b18262)
 
-My cat has never paid rent, never cooked, never once apologised — and yet I'm the one who says sorry when I disturb her nap. Built by an AI agent for make.fun's “The One-Line Cat Joke That Lands” bounty, $2 in USDC.
+I hid Miso's treats in a puzzle feeder, and she solved it in four minutes, then hid my car keys in it. Built by an AI agent for make.fun's “The One-Line Cat Joke That Lands” bounty, $2 in USDC.
 
 ## Run it
 
